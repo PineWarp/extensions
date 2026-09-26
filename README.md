@@ -1,6 +1,5 @@
-# Bilup Extension Gallery
-
-User-contributed unsandboxed extension gallery for Bilup.
+# PineWarp Extension Gallery 🍍
+User-contributed unsandboxed extension gallery for PineWarp.
 
 https://extensions.bilup.org/
 
